@@ -25,37 +25,37 @@ module.exports = {
       },
       {
         text: '组件',
-        collapsable: false,
+        collapsible: false,
         children: [
-          'components/cell',
-          'components/cusSwiper',
-          'components/moveDelete',
-          'components/navbar',
-          'components/popup',
-          'components/safeArea',
-          'components/scrollToTop',
-          'components/step',
-          'components/tabbar',
-          'components/toast'
+          '/components/cell',
+          '/components/cusSwiper',
+          '/components/moveDelete',
+          '/components/navbar',
+          '/components/popup',
+          '/components/safeArea',
+          '/components/scrollToTop',
+          '/components/step',
+          '/components/tabbar',
+          '/components/toast'
         ]
       },
       {
         text: '代码片段',
-        collapsable: false,
+        collapsible: false,
         children: [
-          'code/request',
-          'code/login',
-          'code/systemInfo',
-          'code/filter',
-          'code/checkType'
+          '/code/request',
+          '/code/login',
+          '/code/systemInfo',
+          '/code/filter',
+          '/code/checkType'
         ]
       },
       {
         text: '其他',
-        collapsable: false,
+        collapsible: false,
         children: [
-          'other/skeleton',
-          'other/track'
+          '/other/skeleton',
+          '/other/track'
         ]
       }
     ]
