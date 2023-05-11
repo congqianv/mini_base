@@ -1,0 +1,17 @@
+{
+  "name": "mini_base_new",
+  "version": "1.0.0",
+  "description": "miniprogram components and code snippets",
+  "main": "index.js",
+  "author": "congqianv <congqian8@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.61",
+    "vuepress-plugin-copy-code2": "^2.0.0-beta.208"
+  },
+  "dependencies": {}
+}
