@@ -98,7 +98,7 @@ onTapItem (e) { // 点击单个商品操作
 ### 下载代码
 可以通过以下两种方式获取代码:
   - 点击上方示例代码,在开发者工具组查看代码,直接复制`components/mobe-delete`到你的项目中
-  - <a href="/dist/mobeDelete.zip" target="_blank" download>点此下载</a>
+  - <a href="/dist/moveDelete.zip" target="_blank" download>点此下载</a>
 
 ## 组件传参
 | 参数 | 说明 | 数据类型 | 默认值 |
